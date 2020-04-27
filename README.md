@@ -1,2 +1,3 @@
 # shopping-cart-application
-MVC Framework
+ASP.NET MVC Framework
+Languages used: c#
